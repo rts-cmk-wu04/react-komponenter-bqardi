@@ -1,10 +1,10 @@
 import './App.css';
-import Icon from './components/Icon';
+import TopHeading from './components/TopHeading';
 
 function App() {
   return (
     <section className="Components">
-      <Icon file="On_time_delivery_icon.svg" />
+      <TopHeading color="blue">Latest news</TopHeading>
     </section>
   );
 }

@@ -1,0 +1,21 @@
+.TopHeading{
+    height: 56px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.TopHeading__title{
+    color: white;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.TopHeading.TopHeading--blue{
+    background-color: #3F51B5;
+}
+
+.TopHeading.TopHeading--green{
+    background-color: #3CA773;
+}
