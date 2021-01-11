@@ -1,0 +1,361 @@
+{
+    "Travel": {
+        "title": "Travel",
+        "content": [
+            {
+                "modifier": "",
+                "images": [
+                    "travel.jpg"
+                ],
+                "title": "Surfing in Maldives",
+                "text": "It’s windy. The cool breeze of the ocean. It gives, a sense of beauty, in motion. All is flowing, rushing and tide-And I sit in wonder, dreaming beside."
+            }
+        ]
+    },
+    "Outdoor": {
+        "title": "Leisure",
+        "content": [
+            {
+                "modifier": "",
+                "images": [
+                    "outdoor1.jpg",
+                    "outdoor2.jpg",
+                    "outdoor3.jpg",
+                    "outdoor4.jpg"
+                ],
+                "title": "Outdoor experience",
+                "text": "It’s windy. The cool breeze of the ocean. It gives, a sense of beauty, in motion. All is flowing, rushing and tide-And I sit in wonder, dreaming beside."
+            }
+        ]
+    },
+    "delivery": {
+        "class": "w3h3",
+        "title": "",
+        "content": [
+            {
+                "modifier": "blue",
+                "images": [
+                    "On_time_delivery_icon.svg"
+                ],
+                "title": "On-time delivery",
+                "color": "#005AEE",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit."
+            }
+        ]
+    },
+    "parcels": {
+        "class": "w3h3",
+        "title": "",
+        "content": [
+            {
+                "modifier": "orange",
+                "images": [
+                    "Customer_service_Icon.svg"
+                ],
+                "title": "Parcels",
+                "color": "#FFA767",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit."
+            }
+        ]
+    },
+    "quality": {
+        "class": "w3h3",
+        "title": "",
+        "content": [
+            {
+                "modifier": "cyan",
+                "images": [
+                    "Parcels_Icon.svg"
+                ],
+                "title": "Quality check",
+                "color": "#0AACDC",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit."
+            }
+        ]
+    },
+    "customer": {
+        "class": "w3h3",
+        "title": "",
+        "content": [
+            {
+                "modifier": "purple",
+                "images": [
+                    "Customer_Icon.svg"
+                ],
+                "color": "#597AEF",
+                "title": "Customer service",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit."
+            }
+        ]
+    },
+    "Collection10": {
+        "class": "w4h4",
+        "title": "Collection #10",
+        "content": [
+            {
+                "modifier": "num10",
+                "images": [
+                    "collection10.jpg",
+                    "collection10_profile.jpg"
+                ],
+                "title": "Off-the-grid experiences",
+                "text": "By: Melanie S."
+            }
+        ]
+    },
+    "Collection1": {
+        "class": "w4h4",
+        "title": "Collection #1",
+        "content": [
+            {
+                "modifier": "num1",
+                "images": [
+                    "collection1.jpg",
+                    "collection1_profile.jpg"
+                ],
+                "title": "Shapes, triangles & fashion",
+                "text": "By: Saraha F."
+            }
+        ]
+    },
+    "Collection123": {
+        "class": "w4h4",
+        "title": "Collection #123",
+        "content": [
+            {
+                "modifier": "num123",
+                "images": [
+                    "collection123.jpg",
+                    "collection123_profile.jpg"
+                ],
+                "title": "In-depth architecture",
+                "text": "By: Benhour"
+            }
+        ]
+    },
+    "Places": {
+        "class": "w8h6",
+        "title": "The New York Times",
+        "content": [
+            {
+                "modifier": "",
+                "images": [
+                    "places.jpg"
+                ],
+                "title": "Must see places for summer",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam."
+            }
+        ]
+    },
+    "Latest": {
+        "class": "w4h10",
+        "title": "Latest News",
+        "content": [
+            {
+                "modifier": "green",
+                "images": [
+                    "latest_nature.jpg"
+                ],
+                "title": "Nature",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam."
+            },
+            {
+                "modifier": "blue",
+                "images": [
+                    "latest_animal.jpg"
+                ],
+                "title": "Animal Kingdom",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam."
+            },
+            {
+                "modifier": "yellow",
+                "images": [
+                    "latest_technology.jpg"
+                ],
+                "title": "Technology",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam."
+            },
+            {
+                "modifier": "magenta",
+                "images": [
+                    "latest_explore.jpg"
+                ],
+                "title": "Explore",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam."
+            },
+            {
+                "modifier": "blue",
+                "images": [
+                    "latest_africa.jpg"
+                ],
+                "title": "Africa Zoo",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam."
+            }
+        ]
+    },
+    "lifestyle": {
+        "class": "w8h2",
+        "title": "",
+        "content": [
+            {
+                "modifier": "magenta",
+                "images": [
+                    "lifestyle_food.jpg"
+                ],
+                "title": "Food & Lifestyle",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam."
+            },
+            {
+                "modifier": "cyan",
+                "images": [
+                    "lifestyle_fashion.jpg"
+                ],
+                "title": "Fashion",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam."
+            }
+        ]
+    },
+    "architecture": {
+        "class": "w8h2",
+        "title": "",
+        "content": [
+            {
+                "modifier": "yellow",
+                "images": [
+                    "location_architecture.jpg"
+                ],
+                "title": "Architecture",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas."
+            }
+        ]
+    },
+    "travel": {
+        "class": "w8h2",
+        "title": "",
+        "content": [
+            {
+                "modifier": "lightblue",
+                "images": [
+                    "location_travel.jpg"
+                ],
+                "title": "Travel & Leisure",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas."
+            }
+        ]
+    },
+    "greenery": {
+        "class": "w8h2",
+        "title": "",
+        "content": [
+            {
+                "modifier": "lightgreen",
+                "images": [
+                    "location_greenery.jpg"
+                ],
+                "title": "Greenery",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas."
+            }
+        ]
+    },
+    "beaches": {
+        "class": "w8h2",
+        "title": "",
+        "content": [
+            {
+                "modifier": "white",
+                "images": [
+                    "location_beaches.jpg"
+                ],
+                "title": "Beaches",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas."
+            }
+        ]
+    },
+    "digest": {
+        "class": "w4h12",
+        "title": "News Digest",
+        "content": [
+            {
+                "modifier": "orange",
+                "images": [],
+                "title": "Technology",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit."
+            },
+            {
+                "modifier": "blue",
+                "images": [],
+                "title": "Nature",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit."
+            },
+            {
+                "modifier": "green",
+                "images": [],
+                "title": "Design",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit."
+            },
+            {
+                "modifier": "cyan",
+                "images": [],
+                "title": "Development",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit."
+            }
+        ]
+    },
+    "nyt": {
+        "class": "w4h6",
+        "title": "",
+        "content": [
+            {
+                "modifier": "",
+                "images": [],
+                "title": "The New York Times",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar.",
+                "link": "Read more"
+            }
+        ]
+    },
+    "nytAlt": {
+        "class": "w4h6",
+        "title": "",
+        "content": [
+            {
+                "modifier": "image",
+                "images": [
+                    "nyt.jpg"
+                ],
+                "title": "The New York Times",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar.",
+                "link": "Read more"
+            }
+        ]
+    },
+    "vr": {
+        "class": "w4h4",
+        "title": "Technology",
+        "content": [
+            {
+                "modifier": "",
+                "images": [
+                    "Education_Icon.svg"
+                ],
+                "title": "Virtual Reality",
+                "text": ""
+            }
+        ]
+    },
+    "design": {
+        "class": "w2h2",
+        "title": "Technology",
+        "content": [
+            {
+                "class": "ServicesSmall",
+                "modifier": "",
+                "images": [
+                    "Desgin_Icon.svg"
+                ],
+                "title": "Virtual Reality",
+                "text": ""
+            }
+        ]
+    }
+}
