@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import Card from './components/Card';
+import Travel from './components/Travel';
 
 function App() {
   var [details, setDetails] = useState({});
@@ -14,10 +15,7 @@ function App() {
   return (
     <section className="Cards">
       <Card details={details.travel}>
-        <img src={`./images/${details.travel?.content[0].images[0]}`} alt="Travel" style={{width: "100%"}}/>
-        <h2>{details.travel?.title}</h2>
-        <h1>{details.travel?.content[0].title}</h1>
-        <p>{details.travel?.content[0].text}</p>
+        <Travel travel={details.travel}/>
       </Card>
     </section>
   );
