@@ -2,6 +2,18 @@
     padding: 2em;
     display: flex;
     flex-direction: column;
+    height: 100%;
+    box-sizing: border-box;
+}
+.Services--small{
+    justify-content: center;
+    align-items: center;
+}
+.Services--small .Services__image{
+    align-self: center;
+}
+.Services--small .Services__title{
+    margin: 1em 0 0;
 }
 .Services__image{
     align-self: flex-end;
