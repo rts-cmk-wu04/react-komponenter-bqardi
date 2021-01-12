@@ -3,6 +3,11 @@
     border-radius: 15px;
     overflow: hidden;
     box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1);
+    transition: .3s;
+}
+.Card:hover{
+    transform: scale(1.02);
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.07);
 }
 .Card.w4h5{
     grid-column: span 4;
@@ -43,4 +48,8 @@
 .Card.w4h5{
     grid-column: span 4;
     grid-row: span 5;
+}
+.Card.w2h2{
+    grid-column: span 2;
+    grid-row: span 2;
 }

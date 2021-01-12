@@ -361,15 +361,30 @@
     },
     "design": {
         "span": "w2h2",
-        "title": "Technology",
-        "color": "white",
+        "title": "",
+        "color": "#53BBB3",
         "content": [
             {
-                "color": "",
+                "color": "small",
                 "images": [
                     "Desgin_Icon.svg"
                 ],
-                "title": "Virtual Reality",
+                "title": "Design",
+                "text": ""
+            }
+        ]
+    },
+    "education": {
+        "span": "w2h2",
+        "title": "",
+        "color": "#358ED7",
+        "content": [
+            {
+                "color": "small",
+                "images": [
+                    "Education_Icon.svg"
+                ],
+                "title": "Education",
                 "text": ""
             }
         ]

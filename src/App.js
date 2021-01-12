@@ -84,6 +84,12 @@ function App() {
       <Card details={details.nytAlt}>
         <NewYorkTimes item={details.nytAlt}/>
       </Card>
+      <Card details={details.design}>
+        <Services item={details.design}/>
+      </Card>
+      <Card details={details.education}>
+        <Services item={details.education}/>
+      </Card>
     </section>
   );
 }

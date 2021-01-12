@@ -12,6 +12,8 @@
 .NewYorkTimes--image .NewYorkTimes__readMore{
     border: 1px solid #7B8591;
     border-radius: 25px;
+}
+.NewYorkTimes--image .NewYorkTimes__link{
     color: #303336;
 }
 .NewYorkTimes--blue .NewYorkTimes__link{
@@ -47,4 +49,7 @@
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 700;
+}
+.NewYorkTimes__link:hover{
+    color: #ca2812;
 }
