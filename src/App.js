@@ -11,6 +11,7 @@ import Lifestyle from './components/Lifestyle';
 import Location from './components/Location';
 import Digest from './components/Digest';
 import NewYorkTimes from './components/NewYorkTimes';
+import VirtualReality from './components/VirtualReality';
 
 function App() {
   var [details, setDetails] = useState({});
@@ -76,6 +77,9 @@ function App() {
       </Card>
       <Card details={details.beaches}>
         <Location item={details.beaches}/>
+      </Card>
+      <Card details={details.vr}>
+        <VirtualReality item={details.vr}/>
       </Card>
       <Card details={details.nytAlt}>
         <NewYorkTimes item={details.nytAlt}/>

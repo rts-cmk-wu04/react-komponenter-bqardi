@@ -350,9 +350,9 @@
         "color": "white",
         "content": [
             {
-                "color": "",
+                "color": "#D9A34A",
                 "images": [
-                    "Education_Icon.svg"
+                    "vr.jpg"
                 ],
                 "title": "Virtual Reality",
                 "text": ""
