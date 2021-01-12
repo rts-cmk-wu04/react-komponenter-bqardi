@@ -1,0 +1,31 @@
+.LatestNews{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+.LatestNews__content{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    height: 100%;
+    padding: 0 2em;
+}
+.LatestNews__readMore{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    border-top: 1px solid #e5e9ec;
+}
+.LatestNews__link{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #7B8591;
+    font-weight: 700;
+    transition: color .3s;
+}
+.LatestNews__link:hover{
+    color: #4f6d92;
+}
