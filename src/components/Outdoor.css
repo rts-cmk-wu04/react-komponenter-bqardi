@@ -1,0 +1,42 @@
+.Outdoor{
+    height: 100%;
+    box-sizing: border-box;
+    padding: 2.5em 2.8em;
+    display: flex;
+}
+.Outdoor__image{
+    height: 100%;
+    margin-right: 3em;
+}
+.Outdoor__content{
+    display: flex;
+    flex-direction: column;
+}
+.Outdoor__category{
+    background-color: #005AEE;
+    color: white;
+    margin: 0;
+    height: 36px;
+    width: 100px;
+    border-radius: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: flex-end;
+}
+.Outdoor__title{
+    font-size: 3em;
+    margin: 0 0 0.2em;
+    line-height: 1.1em;
+}
+.Outdoor__text{
+    color: #7B8591;
+    flex-grow: 1;
+    margin-right: 2.8em;
+}
+.Outdoor__thumbnails{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 1.8em 0 0;
+    justify-self: flex-end;
+}
