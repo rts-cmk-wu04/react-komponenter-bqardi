@@ -1,0 +1,24 @@
+.Travel{
+    
+}
+.Travel__image{
+    width: 100%;
+}
+.Travel__content{
+    padding: 1.5em 2.5em;
+}
+.Travel__category{
+    margin-top: 0;
+    font-size: 0.7em;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    font-weight: 1000;
+    color: #33439B;
+}
+.Travel__title{
+    font-size: 1.8em;
+    margin: 0.5em 0;
+}
+.Travel__text{
+    color: #7B8591;
+}
