@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import Card from './components/Card';
+import Outdoor from './components/Outdoor';
 import Travel from './components/Travel';
 
 function App() {
@@ -15,7 +16,10 @@ function App() {
   return (
     <section className="Cards">
       <Card details={details.travel}>
-        <Travel travel={details.travel}/>
+        <Travel item={details.travel}/>
+      </Card>
+      <Card details={details.outdoor}>
+        <Outdoor item={details.outdoor}/>
       </Card>
     </section>
   );

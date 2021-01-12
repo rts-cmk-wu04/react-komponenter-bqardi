@@ -11,3 +11,10 @@ body{
   grid-auto-rows: 76px;
   gap: 1.5em;
 }
+
+.Category{
+  font-size: 0.7em;
+  text-transform: uppercase;
+  letter-spacing: 0.15em;
+  font-weight: 1000;
+}
