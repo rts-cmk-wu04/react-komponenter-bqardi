@@ -226,7 +226,7 @@
         ]
     },
     "architecture": {
-        "span": "w8h2",
+        "span": "w4h2",
         "title": "",
         "color": "white",
         "content": [
@@ -240,15 +240,15 @@
             }
         ]
     },
-    "location": {
-        "span": "w8h2",
+    "leisure": {
+        "span": "w4h2",
         "title": "",
         "color": "white",
         "content": [
             {
                 "color": "lightblue",
                 "images": [
-                    "location_travel.jpg"
+                    "location_leisure.jpg"
                 ],
                 "title": "Travel & Leisure",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas."
@@ -256,12 +256,12 @@
         ]
     },
     "greenery": {
-        "span": "w8h2",
+        "span": "w4h2",
         "title": "",
         "color": "white",
         "content": [
             {
-                "color": "lightgreen",
+                "color": "white",
                 "images": [
                     "location_greenery.jpg"
                 ],
@@ -271,7 +271,7 @@
         ]
     },
     "beaches": {
-        "span": "w8h2",
+        "span": "w4h2",
         "title": "",
         "color": "white",
         "content": [
