@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import './App.css';
 import Card from './components/Card';
+import Collection from './components/Collection';
 import Outdoor from './components/Outdoor';
 import Services from './components/Services';
 import Travel from './components/Travel';
@@ -33,6 +34,15 @@ function App() {
       </Card>
       <Card details={details.customer}>
         <Services item={details.customer}/>
+      </Card>
+      <Card details={details.collection10}>
+        <Collection item={details.collection10}/>
+      </Card>
+      <Card details={details.collection1}>
+        <Collection item={details.collection1}/>
+      </Card>
+      <Card details={details.collection123}>
+        <Collection item={details.collection123}/>
       </Card>
     </section>
   );
