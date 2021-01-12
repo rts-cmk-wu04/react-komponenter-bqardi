@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1d970229.chunk.css",
+    "main.js": "/static/js/main.58b62953.chunk.js",
+    "main.js.map": "/static/js/main.58b62953.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.460662ac.js",
+    "runtime-main.js.map": "/static/js/runtime-main.460662ac.js.map",
+    "static/js/2.326a0495.chunk.js": "/static/js/2.326a0495.chunk.js",
+    "static/js/2.326a0495.chunk.js.map": "/static/js/2.326a0495.chunk.js.map",
+    "static/js/3.ee2bd8da.chunk.js": "/static/js/3.ee2bd8da.chunk.js",
+    "static/js/3.ee2bd8da.chunk.js.map": "/static/js/3.ee2bd8da.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.1d970229.chunk.css.map": "/static/css/main.1d970229.chunk.css.map",
+    "static/js/2.326a0495.chunk.js.LICENSE.txt": "/static/js/2.326a0495.chunk.js.LICENSE.txt",
+    "static/media/NewYorkTimes.css": "/static/media/nyt.cb42a686.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.460662ac.js",
+    "static/js/2.326a0495.chunk.js",
+    "static/css/main.1d970229.chunk.css",
+    "static/js/main.58b62953.chunk.js"
+  ]
+}
