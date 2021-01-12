@@ -286,30 +286,30 @@
         ]
     },
     "digest": {
-        "span": "w4h12",
+        "span": "w4h10",
         "title": "News Digest",
         "color": "white",
         "content": [
             {
-                "color": "orange",
+                "color": "#D9A34A",
                 "images": [],
                 "title": "Technology",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit."
             },
             {
-                "color": "blue",
+                "color": "#007AC2",
                 "images": [],
                 "title": "Nature",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit."
             },
             {
-                "color": "green",
+                "color": "#3CA773",
                 "images": [],
                 "title": "Design",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit."
             },
             {
-                "color": "cyan",
+                "color": "#53BBB3",
                 "images": [],
                 "title": "Development",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit."
