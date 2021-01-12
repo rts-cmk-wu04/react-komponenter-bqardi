@@ -19,7 +19,11 @@
     grid-column: span 4;
     grid-row: span 4;
 }
-.Card.w4h10{
+.Card.w4h9{
     grid-column: span 4;
-    grid-row: span 10;
+    grid-row: span 9;
+}
+.Card.w8h2{
+    grid-column: span 8;
+    grid-row: span 2;
 }

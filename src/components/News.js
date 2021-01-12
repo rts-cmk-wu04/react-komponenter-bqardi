@@ -2,7 +2,7 @@ import "./News.css";
 
 function News({item}){
     return (
-        <article className={`News News--${item.modifier}`}>
+        <article className="News">
             <img className="News__image" src={`./images/${item.images[0]}`} alt={item.title}/>
             <div className="News__content">
                 <h1 className="News__category Category" style={{color: item.color}}>{item.title}</h1>
