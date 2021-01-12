@@ -8,6 +8,7 @@ import Travel from './components/Travel';
 import Places from './components/Places';
 import LatestNews from './components/LatestNews';
 import Lifestyle from './components/Lifestyle';
+import Location from './components/Location';
 
 function App() {
   var [details, setDetails] = useState({});
@@ -55,6 +56,18 @@ function App() {
       </Card>
       <Card details={details.lifestyle}>
         <Lifestyle item={details.lifestyle}/>
+      </Card>
+      <Card details={details.architecture}>
+        <Location item={details.architecture}/>
+      </Card>
+      <Card details={details.leisure}>
+        <Location item={details.leisure}/>
+      </Card>
+      <Card details={details.greenery}>
+        <Location item={details.greenery}/>
+      </Card>
+      <Card details={details.beaches}>
+        <Location item={details.beaches}/>
       </Card>
     </section>
   );

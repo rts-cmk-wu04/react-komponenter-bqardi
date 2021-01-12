@@ -1,4 +1,5 @@
 .Card{
+    position: relative;
     border-radius: 15px;
     overflow: hidden;
     box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.1);
@@ -25,5 +26,13 @@
 }
 .Card.w8h2{
     grid-column: span 8;
+    grid-row: span 2;
+}
+.Card.w8h2{
+    grid-column: span 8;
+    grid-row: span 2;
+}
+.Card.w4h2{
+    grid-column: span 4;
     grid-row: span 2;
 }
