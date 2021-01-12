@@ -38,7 +38,7 @@
         "color": "#005AEE",
         "content": [
             {
-                "modifier": "blue",
+                "modifier": "",
                 "images": [
                     "On_time_delivery_icon.svg"
                 ],
@@ -53,9 +53,9 @@
         "color": "#FFA767",
         "content": [
             {
-                "modifier": "orange",
+                "modifier": "",
                 "images": [
-                    "Customer_service_Icon.svg"
+                    "Parcels_Icon.svg"
                 ],
                 "title": "Parcels",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit."
@@ -68,9 +68,9 @@
         "color": "#0AACDC",
         "content": [
             {
-                "modifier": "cyan",
+                "modifier": "",
                 "images": [
-                    "Parcels_Icon.svg"
+                    "Quality_Icon.svg"
                 ],
                 "title": "Quality check",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit."
@@ -83,9 +83,9 @@
         "color": "#597AEF",
         "content": [
             {
-                "modifier": "purple",
+                "modifier": "",
                 "images": [
-                    "Customer_Icon.svg"
+                    "Customer_service_Icon.svg"
                 ],
                 "title": "Customer service",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit."
@@ -98,7 +98,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "num10",
+                "modifier": "",
                 "images": [
                     "collection10.jpg",
                     "collection10_profile.jpg"
@@ -114,7 +114,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "num1",
+                "modifier": "",
                 "images": [
                     "collection1.jpg",
                     "collection1_profile.jpg"
@@ -130,7 +130,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "num123",
+                "modifier": "",
                 "images": [
                     "collection123.jpg",
                     "collection123_profile.jpg"
