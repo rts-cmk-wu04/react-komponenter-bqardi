@@ -5,6 +5,7 @@ import Collection from './components/Collection';
 import Outdoor from './components/Outdoor';
 import Services from './components/Services';
 import Travel from './components/Travel';
+import Places from './components/Places';
 
 function App() {
   var [details, setDetails] = useState({});
@@ -43,6 +44,9 @@ function App() {
       </Card>
       <Card details={details.collection123}>
         <Collection item={details.collection123}/>
+      </Card>
+      <Card details={details.places}>
+        <Places item={details.places}/>
       </Card>
     </section>
   );
