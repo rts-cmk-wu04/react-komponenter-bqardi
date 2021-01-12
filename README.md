@@ -41,7 +41,7 @@ GitHub
 ## Aflevering
 Opgaven skal afleveres som en GitHub-page.
 
-Du kan skrive URL'en til din aflevering her:
+Du kan skrive URL'en til din aflevering her: https://rts-cmk-wu04.github.io/react-komponenter-bqardi/
 
 #### Kom igang med React.js
 Husk, inden du går igang med at kode at køre
