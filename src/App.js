@@ -10,6 +10,7 @@ import LatestNews from './components/LatestNews';
 import Lifestyle from './components/Lifestyle';
 import Location from './components/Location';
 import Digest from './components/Digest';
+import NewYorkTimes from './components/NewYorkTimes';
 
 function App() {
   var [details, setDetails] = useState({});
@@ -70,8 +71,14 @@ function App() {
       <Card details={details.digest}>
         <Digest item={details.digest}/>
       </Card>
+      <Card details={details.nyt}>
+        <NewYorkTimes item={details.nyt}/>
+      </Card>
       <Card details={details.beaches}>
         <Location item={details.beaches}/>
+      </Card>
+      <Card details={details.nytAlt}>
+        <NewYorkTimes item={details.nytAlt}/>
       </Card>
     </section>
   );

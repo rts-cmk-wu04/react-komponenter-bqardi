@@ -40,3 +40,7 @@
     grid-column: span 4;
     grid-row: span 10;
 }
+.Card.w4h5{
+    grid-column: span 4;
+    grid-row: span 5;
+}

@@ -317,21 +317,20 @@
         ]
     },
     "nyt": {
-        "span": "w4h6",
+        "span": "w4h5",
         "title": "",
         "color": "white",
         "content": [
             {
-                "color": "",
+                "color": "blue",
                 "images": [],
                 "title": "The New York Times",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar.",
-                "link": "Read more"
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar."
             }
         ]
     },
     "nytAlt": {
-        "span": "w4h6",
+        "span": "w4h5",
         "title": "",
         "color": "white",
         "content": [
@@ -341,8 +340,7 @@
                     "nyt.jpg"
                 ],
                 "title": "The New York Times",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar.",
-                "link": "Read more"
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar."
             }
         ]
     },

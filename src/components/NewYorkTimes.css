@@ -1,0 +1,50 @@
+.NewYorkTimes{
+    padding: 3em;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    box-sizing: border-box;
+}
+.NewYorkTimes--image{
+    background-image: url("../images/nyt.jpg");
+    background-size: cover;
+}
+.NewYorkTimes--image .NewYorkTimes__readMore{
+    border: 1px solid #7B8591;
+    border-radius: 25px;
+    color: #303336;
+}
+.NewYorkTimes--blue .NewYorkTimes__link{
+    color: #358ED7;
+}
+.NewYorkTimes__title{
+    display: flex;
+    align-items: center;
+}
+.NewYorkTimes__title::before{
+    content: "";
+    display: block;
+    width: 48px;
+    height: 48px;
+    background-image: url("../images/News_Logo.jpg");
+    background-size: 100%;
+    border-radius: 50%;
+    margin-right: 1em;
+}
+.NewYorkTimes__text{
+    line-height: 1.7em;
+    flex-grow: 1;
+}
+.NewYorkTimes__readMore{
+    margin: 0;
+    width: 150px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.NewYorkTimes__link{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+}
