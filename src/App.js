@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import './App.css';
 import Card from './components/Card';
 import Outdoor from './components/Outdoor';
+import Services from './components/Services';
 import Travel from './components/Travel';
 
 function App() {
@@ -20,6 +21,18 @@ function App() {
       </Card>
       <Card details={details.outdoor}>
         <Outdoor item={details.outdoor}/>
+      </Card>
+      <Card details={details.delivery}>
+        <Services item={details.delivery}/>
+      </Card>
+      <Card details={details.parcels}>
+        <Services item={details.parcels}/>
+      </Card>
+      <Card details={details.quality}>
+        <Services item={details.quality}/>
+      </Card>
+      <Card details={details.customer}>
+        <Services item={details.customer}/>
       </Card>
     </section>
   );

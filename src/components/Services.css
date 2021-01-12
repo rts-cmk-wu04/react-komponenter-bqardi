@@ -1,0 +1,18 @@
+.Services{
+    padding: 2em;
+    display: flex;
+    flex-direction: column;
+}
+.Services__image{
+    align-self: flex-end;
+}
+.Services__title{
+    color: white;
+    text-transform: uppercase;
+    margin: 2.3em 0 0.8em;
+}
+.Services__text{
+    color: white;
+    margin: 0;
+    line-height: 1.2em;
+}
