@@ -9,6 +9,7 @@ import Places from './components/Places';
 import LatestNews from './components/LatestNews';
 import Lifestyle from './components/Lifestyle';
 import Location from './components/Location';
+import Digest from './components/Digest';
 
 function App() {
   var [details, setDetails] = useState({});
@@ -65,6 +66,9 @@ function App() {
       </Card>
       <Card details={details.greenery}>
         <Location item={details.greenery}/>
+      </Card>
+      <Card details={details.digest}>
+        <Digest item={details.digest}/>
       </Card>
       <Card details={details.beaches}>
         <Location item={details.beaches}/>
