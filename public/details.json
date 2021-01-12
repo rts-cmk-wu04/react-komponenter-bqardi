@@ -1,6 +1,8 @@
 {
-    "Travel": {
+    "travel": {
+        "span": "w4h5",
         "title": "Travel",
+        "color": "white",
         "content": [
             {
                 "modifier": "",
@@ -12,8 +14,10 @@
             }
         ]
     },
-    "Outdoor": {
+    "outdoor": {
+        "span": "w8h5",
         "title": "Leisure",
+        "color": "white",
         "content": [
             {
                 "modifier": "",
@@ -29,8 +33,9 @@
         ]
     },
     "delivery": {
-        "class": "w3h3",
+        "span": "w3h3",
         "title": "",
+        "color": "#005AEE",
         "content": [
             {
                 "modifier": "blue",
@@ -38,14 +43,14 @@
                     "On_time_delivery_icon.svg"
                 ],
                 "title": "On-time delivery",
-                "color": "#005AEE",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit."
             }
         ]
     },
     "parcels": {
-        "class": "w3h3",
+        "span": "w3h3",
         "title": "",
+        "color": "#FFA767",
         "content": [
             {
                 "modifier": "orange",
@@ -53,14 +58,14 @@
                     "Customer_service_Icon.svg"
                 ],
                 "title": "Parcels",
-                "color": "#FFA767",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit."
             }
         ]
     },
     "quality": {
-        "class": "w3h3",
+        "span": "w3h3",
         "title": "",
+        "color": "#0AACDC",
         "content": [
             {
                 "modifier": "cyan",
@@ -68,29 +73,29 @@
                     "Parcels_Icon.svg"
                 ],
                 "title": "Quality check",
-                "color": "#0AACDC",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit."
             }
         ]
     },
     "customer": {
-        "class": "w3h3",
+        "span": "w3h3",
         "title": "",
+        "color": "#597AEF",
         "content": [
             {
                 "modifier": "purple",
                 "images": [
                     "Customer_Icon.svg"
                 ],
-                "color": "#597AEF",
                 "title": "Customer service",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit."
             }
         ]
     },
-    "Collection10": {
-        "class": "w4h4",
+    "collection10": {
+        "span": "w4h4",
         "title": "Collection #10",
+        "color": "white",
         "content": [
             {
                 "modifier": "num10",
@@ -103,9 +108,10 @@
             }
         ]
     },
-    "Collection1": {
-        "class": "w4h4",
+    "collection1": {
+        "span": "w4h4",
         "title": "Collection #1",
+        "color": "white",
         "content": [
             {
                 "modifier": "num1",
@@ -118,9 +124,10 @@
             }
         ]
     },
-    "Collection123": {
-        "class": "w4h4",
+    "collection123": {
+        "span": "w4h4",
         "title": "Collection #123",
+        "color": "white",
         "content": [
             {
                 "modifier": "num123",
@@ -133,9 +140,10 @@
             }
         ]
     },
-    "Places": {
-        "class": "w8h6",
+    "places": {
+        "span": "w8h6",
         "title": "The New York Times",
+        "color": "white",
         "content": [
             {
                 "modifier": "",
@@ -147,9 +155,10 @@
             }
         ]
     },
-    "Latest": {
-        "class": "w4h10",
+    "latest": {
+        "span": "w4h10",
         "title": "Latest News",
+        "color": "white",
         "content": [
             {
                 "modifier": "green",
@@ -194,8 +203,9 @@
         ]
     },
     "lifestyle": {
-        "class": "w8h2",
+        "span": "w8h2",
         "title": "",
+        "color": "white",
         "content": [
             {
                 "modifier": "magenta",
@@ -216,8 +226,9 @@
         ]
     },
     "architecture": {
-        "class": "w8h2",
+        "span": "w8h2",
         "title": "",
+        "color": "white",
         "content": [
             {
                 "modifier": "yellow",
@@ -229,9 +240,10 @@
             }
         ]
     },
-    "travel": {
-        "class": "w8h2",
+    "location": {
+        "span": "w8h2",
         "title": "",
+        "color": "white",
         "content": [
             {
                 "modifier": "lightblue",
@@ -244,8 +256,9 @@
         ]
     },
     "greenery": {
-        "class": "w8h2",
+        "span": "w8h2",
         "title": "",
+        "color": "white",
         "content": [
             {
                 "modifier": "lightgreen",
@@ -258,8 +271,9 @@
         ]
     },
     "beaches": {
-        "class": "w8h2",
+        "span": "w8h2",
         "title": "",
+        "color": "white",
         "content": [
             {
                 "modifier": "white",
@@ -272,8 +286,9 @@
         ]
     },
     "digest": {
-        "class": "w4h12",
+        "span": "w4h12",
         "title": "News Digest",
+        "color": "white",
         "content": [
             {
                 "modifier": "orange",
@@ -302,8 +317,9 @@
         ]
     },
     "nyt": {
-        "class": "w4h6",
+        "span": "w4h6",
         "title": "",
+        "color": "white",
         "content": [
             {
                 "modifier": "",
@@ -315,8 +331,9 @@
         ]
     },
     "nytAlt": {
-        "class": "w4h6",
+        "span": "w4h6",
         "title": "",
+        "color": "white",
         "content": [
             {
                 "modifier": "image",
@@ -330,8 +347,9 @@
         ]
     },
     "vr": {
-        "class": "w4h4",
+        "span": "w4h4",
         "title": "Technology",
+        "color": "white",
         "content": [
             {
                 "modifier": "",
@@ -344,11 +362,11 @@
         ]
     },
     "design": {
-        "class": "w2h2",
+        "span": "w2h2",
         "title": "Technology",
+        "color": "white",
         "content": [
             {
-                "class": "ServicesSmall",
                 "modifier": "",
                 "images": [
                     "Desgin_Icon.svg"

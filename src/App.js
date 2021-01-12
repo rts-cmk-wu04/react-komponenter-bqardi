@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import './App.css';
-import TopHeading from './components/TopHeading';
+import Card from './components/Card';
 
 function App() {
   var [details, setDetails] = useState({});
@@ -12,8 +12,13 @@ function App() {
     }, []);
 
   return (
-    <section className="Components">
-      <TopHeading color="blue">{details.Outdoor?.title}</TopHeading>
+    <section className="Cards">
+      <Card details={details.travel}>
+        <img src={`./images/${details.travel?.content[0].images[0]}`} alt="Travel" style={{width: "100%"}}/>
+        <h2>{details.travel?.title}</h2>
+        <h1>{details.travel?.content[0].title}</h1>
+        <p>{details.travel?.content[0].text}</p>
+      </Card>
     </section>
   );
 }
