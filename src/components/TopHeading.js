@@ -1,9 +1,9 @@
 import "./TopHeading.css";
 
-function TopHeading(props){
+function TopHeading({children, color}){
     return (
-        <header className={`TopHeading TopHeading--${props.color}`}>
-            <h1 className="TopHeading__title">{props.children}</h1>
+        <header className={`TopHeading TopHeading--${color}`}>
+            <h1 className="TopHeading__title">{children}</h1>
         </header>
     );
 }
