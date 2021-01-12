@@ -1,0 +1,33 @@
+.Collection{
+    position: relative;
+}
+.Collection__image{
+    display: block;
+    width: 100%;
+}
+.Collection__profile{
+    display: block;
+    border-radius: 50%;
+    margin-top: -28px;
+    margin-left: 2em;
+}
+.Collection__content{
+    padding: 1.5em 2em;
+}
+.Collection__category{
+    position: absolute;
+    top: 0;
+    color: white;
+    text-transform: uppercase;
+    font-size: 1.25em;
+}
+.Collection__title{
+    font-size: 1.1em;
+    margin: -0.5em 0 0;
+    text-align: center;
+}
+.Collection__text{
+    margin: 0.2em;
+    color: #7B8591;
+    text-align: center;
+}

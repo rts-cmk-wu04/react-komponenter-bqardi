@@ -2,18 +2,19 @@
     border-radius: 15px;
     overflow: hidden;
 }
-
 .Card.w4h5{
     grid-column: span 4;
     grid-row: span 5;
 }
-
 .Card.w8h5{
     grid-column: span 8;
     grid-row: span 5;
 }
-
 .Card.w3h3{
     grid-column: span 3;
     grid-row: span 3;
+}
+.Card.w4h4{
+    grid-column: span 4;
+    grid-row: span 4;
 }
