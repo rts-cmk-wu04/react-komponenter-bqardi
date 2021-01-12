@@ -5,7 +5,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "",
+                "color": "",
                 "images": [
                     "travel.jpg"
                 ],
@@ -20,7 +20,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "",
+                "color": "",
                 "images": [
                     "outdoor1.jpg",
                     "outdoor2.jpg",
@@ -38,7 +38,7 @@
         "color": "#005AEE",
         "content": [
             {
-                "modifier": "",
+                "color": "",
                 "images": [
                     "On_time_delivery_icon.svg"
                 ],
@@ -53,7 +53,7 @@
         "color": "#FFA767",
         "content": [
             {
-                "modifier": "",
+                "color": "",
                 "images": [
                     "Parcels_Icon.svg"
                 ],
@@ -68,7 +68,7 @@
         "color": "#0AACDC",
         "content": [
             {
-                "modifier": "",
+                "color": "",
                 "images": [
                     "Quality_Icon.svg"
                 ],
@@ -83,7 +83,7 @@
         "color": "#597AEF",
         "content": [
             {
-                "modifier": "",
+                "color": "",
                 "images": [
                     "Customer_service_Icon.svg"
                 ],
@@ -98,7 +98,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "",
+                "color": "",
                 "images": [
                     "collection10.jpg",
                     "collection10_profile.jpg"
@@ -114,7 +114,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "",
+                "color": "",
                 "images": [
                     "collection1.jpg",
                     "collection1_profile.jpg"
@@ -130,7 +130,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "",
+                "color": "",
                 "images": [
                     "collection123.jpg",
                     "collection123_profile.jpg"
@@ -146,7 +146,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "",
+                "color": "",
                 "images": [
                     "places.jpg"
                 ],
@@ -161,7 +161,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "green",
+                "color": "#40BE65",
                 "images": [
                     "latest_nature.jpg"
                 ],
@@ -169,7 +169,7 @@
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam."
             },
             {
-                "modifier": "blue",
+                "color": "#0072CA",
                 "images": [
                     "latest_animal.jpg"
                 ],
@@ -177,7 +177,7 @@
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam."
             },
             {
-                "modifier": "yellow",
+                "color": "#D9A34A",
                 "images": [
                     "latest_technology.jpg"
                 ],
@@ -185,7 +185,7 @@
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam."
             },
             {
-                "modifier": "magenta",
+                "color": "#FF4967",
                 "images": [
                     "latest_explore.jpg"
                 ],
@@ -193,7 +193,7 @@
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam."
             },
             {
-                "modifier": "blue",
+                "color": "#0072CA",
                 "images": [
                     "latest_africa.jpg"
                 ],
@@ -208,7 +208,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "magenta",
+                "color": "#FF4967",
                 "images": [
                     "lifestyle_food.jpg"
                 ],
@@ -216,7 +216,7 @@
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam."
             },
             {
-                "modifier": "cyan",
+                "color": "#0AACDC",
                 "images": [
                     "lifestyle_fashion.jpg"
                 ],
@@ -231,7 +231,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "yellow",
+                "color": "yellow",
                 "images": [
                     "location_architecture.jpg"
                 ],
@@ -246,7 +246,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "lightblue",
+                "color": "lightblue",
                 "images": [
                     "location_travel.jpg"
                 ],
@@ -261,7 +261,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "lightgreen",
+                "color": "lightgreen",
                 "images": [
                     "location_greenery.jpg"
                 ],
@@ -276,7 +276,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "white",
+                "color": "white",
                 "images": [
                     "location_beaches.jpg"
                 ],
@@ -291,25 +291,25 @@
         "color": "white",
         "content": [
             {
-                "modifier": "orange",
+                "color": "orange",
                 "images": [],
                 "title": "Technology",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit."
             },
             {
-                "modifier": "blue",
+                "color": "blue",
                 "images": [],
                 "title": "Nature",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit."
             },
             {
-                "modifier": "green",
+                "color": "green",
                 "images": [],
                 "title": "Design",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit."
             },
             {
-                "modifier": "cyan",
+                "color": "cyan",
                 "images": [],
                 "title": "Development",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit."
@@ -322,7 +322,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "",
+                "color": "",
                 "images": [],
                 "title": "The New York Times",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar.",
@@ -336,7 +336,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "image",
+                "color": "image",
                 "images": [
                     "nyt.jpg"
                 ],
@@ -352,7 +352,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "",
+                "color": "",
                 "images": [
                     "Education_Icon.svg"
                 ],
@@ -367,7 +367,7 @@
         "color": "white",
         "content": [
             {
-                "modifier": "",
+                "color": "",
                 "images": [
                     "Desgin_Icon.svg"
                 ],
