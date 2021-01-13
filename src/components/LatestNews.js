@@ -11,7 +11,7 @@ function LatestNews({item}){
                 {item?.content.map(content => <News key={content.title} item={content}/>)}
             </div>
             <div className="LatestNews__readMore">
-                <Link className="LatestNews__link" to="./">More news</Link>
+                <Link className="LatestNews__link" to="/">More news</Link>
             </div>
         </article>
     );
