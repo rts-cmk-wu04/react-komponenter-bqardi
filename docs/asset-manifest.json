@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-komponenter-bqardi/static/css/main.b68505a9.chunk.css",
-    "main.js": "/react-komponenter-bqardi/static/js/main.92895a3a.chunk.js",
-    "main.js.map": "/react-komponenter-bqardi/static/js/main.92895a3a.chunk.js.map",
+    "main.js": "/react-komponenter-bqardi/static/js/main.6f72bfb7.chunk.js",
+    "main.js.map": "/react-komponenter-bqardi/static/js/main.6f72bfb7.chunk.js.map",
     "runtime-main.js": "/react-komponenter-bqardi/static/js/runtime-main.0f7772ce.js",
     "runtime-main.js.map": "/react-komponenter-bqardi/static/js/runtime-main.0f7772ce.js.map",
     "static/js/2.326a0495.chunk.js": "/react-komponenter-bqardi/static/js/2.326a0495.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0f7772ce.js",
     "static/js/2.326a0495.chunk.js",
     "static/css/main.b68505a9.chunk.css",
-    "static/js/main.92895a3a.chunk.js"
+    "static/js/main.6f72bfb7.chunk.js"
   ]
 }
