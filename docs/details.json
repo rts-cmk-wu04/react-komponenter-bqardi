@@ -1,5 +1,7 @@
-{
-    "travel": {
+[
+    {
+        "name": "travel",
+        "component": "Travel",
         "span": "w4h5",
         "title": "Travel",
         "color": "white",
@@ -14,7 +16,9 @@
             }
         ]
     },
-    "outdoor": {
+    {
+        "name": "outdoor",
+        "component": "Outdoor",
         "span": "w8h5",
         "title": "Leisure",
         "color": "white",
@@ -32,7 +36,9 @@
             }
         ]
     },
-    "delivery": {
+    {
+        "name": "delivery",
+        "component": "Services",
         "span": "w3h3",
         "title": "",
         "color": "#005AEE",
@@ -47,7 +53,9 @@
             }
         ]
     },
-    "parcels": {
+    {
+        "name": "parcels",
+        "component": "Services",
         "span": "w3h3",
         "title": "",
         "color": "#FFA767",
@@ -62,7 +70,9 @@
             }
         ]
     },
-    "quality": {
+    {
+        "name": "quality",
+        "component": "Services",
         "span": "w3h3",
         "title": "",
         "color": "#0AACDC",
@@ -77,7 +87,9 @@
             }
         ]
     },
-    "customer": {
+    {
+        "name": "customer",
+        "component": "Services",
         "span": "w3h3",
         "title": "",
         "color": "#597AEF",
@@ -92,7 +104,9 @@
             }
         ]
     },
-    "collection10": {
+    {
+        "name": "collection10",
+        "component": "Collection",
         "span": "w4h4",
         "title": "Collection #10",
         "color": "white",
@@ -108,7 +122,9 @@
             }
         ]
     },
-    "collection1": {
+    {
+        "name": "collection1",
+        "component": "Collection",
         "span": "w4h4",
         "title": "Collection #1",
         "color": "white",
@@ -124,7 +140,9 @@
             }
         ]
     },
-    "collection123": {
+    {
+        "name": "collection123",
+        "component": "Collection",
         "span": "w4h4",
         "title": "Collection #123",
         "color": "white",
@@ -140,7 +158,9 @@
             }
         ]
     },
-    "places": {
+    {
+        "name": "places",
+        "component": "Places",
         "span": "w8h5",
         "title": "The New York Times",
         "color": "white",
@@ -155,7 +175,9 @@
             }
         ]
     },
-    "latest": {
+    {
+        "name": "latest",
+        "component": "LatestNews",
         "span": "w4h9",
         "title": "Latest News",
         "color": "white",
@@ -202,7 +224,9 @@
             }
         ]
     },
-    "lifestyle": {
+    {
+        "name": "lifestyle",
+        "component": "Lifestyle",
         "span": "w8h2",
         "title": "",
         "color": "white",
@@ -225,7 +249,9 @@
             }
         ]
     },
-    "architecture": {
+    {
+        "name": "architecture",
+        "component": "Location",
         "span": "w4h2",
         "title": "",
         "color": "white",
@@ -240,7 +266,9 @@
             }
         ]
     },
-    "leisure": {
+    {
+        "name": "leisure",
+        "component": "Location",
         "span": "w4h2",
         "title": "",
         "color": "white",
@@ -255,7 +283,9 @@
             }
         ]
     },
-    "greenery": {
+    {
+        "name": "greenery",
+        "component": "Location",
         "span": "w4h2",
         "title": "",
         "color": "white",
@@ -270,22 +300,9 @@
             }
         ]
     },
-    "beaches": {
-        "span": "w4h2",
-        "title": "",
-        "color": "white",
-        "content": [
-            {
-                "color": "white",
-                "images": [
-                    "location_beaches.jpg"
-                ],
-                "title": "Beaches",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas."
-            }
-        ]
-    },
-    "digest": {
+    {
+        "name": "digest",
+        "component": "Digest",
         "span": "w4h10",
         "title": "News Digest",
         "color": "white",
@@ -316,7 +333,9 @@
             }
         ]
     },
-    "nyt": {
+    {
+        "name": "nyt",
+        "component": "NewYorkTimes",
         "span": "w4h5",
         "title": "",
         "color": "white",
@@ -329,22 +348,26 @@
             }
         ]
     },
-    "nytAlt": {
-        "span": "w4h5",
+    {
+        "name": "beaches",
+        "component": "Location",
+        "span": "w4h2",
         "title": "",
         "color": "white",
         "content": [
             {
-                "color": "image",
+                "color": "white",
                 "images": [
-                    "nyt.jpg"
+                    "location_beaches.jpg"
                 ],
-                "title": "The New York Times",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar."
+                "title": "Beaches",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas."
             }
         ]
     },
-    "vr": {
+    {
+        "name": "vr",
+        "component": "VirtualReality",
         "span": "w4h4",
         "title": "Technology",
         "color": "white",
@@ -359,7 +382,26 @@
             }
         ]
     },
-    "design": {
+    {
+        "name": "nytAlt",
+        "component": "NewYorkTimes",
+        "span": "w4h5",
+        "title": "",
+        "color": "white",
+        "content": [
+            {
+                "color": "image",
+                "images": [
+                    "nyt.jpg"
+                ],
+                "title": "The New York Times",
+                "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam diam sit amet elit hendrerit rutrum. Nam egestas laoreet ligula, ac elementum risus. Aliquam volutpat ex eget elit venenatis, vel luctus arcu pulvinar."
+            }
+        ]
+    },
+    {
+        "name": "design",
+        "component": "Services",
         "span": "w2h2",
         "title": "",
         "color": "#53BBB3",
@@ -374,7 +416,9 @@
             }
         ]
     },
-    "education": {
+    {
+        "name": "education",
+        "component": "Services",
         "span": "w2h2",
         "title": "",
         "color": "#358ED7",
@@ -389,4 +433,4 @@
             }
         ]
     }
-}
+]
