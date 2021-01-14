@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/react-komponenter-bqardi/static/css/main.b68505a9.chunk.css",
-    "main.js": "/react-komponenter-bqardi/static/js/main.6f72bfb7.chunk.js",
-    "main.js.map": "/react-komponenter-bqardi/static/js/main.6f72bfb7.chunk.js.map",
-    "runtime-main.js": "/react-komponenter-bqardi/static/js/runtime-main.0f7772ce.js",
-    "runtime-main.js.map": "/react-komponenter-bqardi/static/js/runtime-main.0f7772ce.js.map",
-    "static/js/2.326a0495.chunk.js": "/react-komponenter-bqardi/static/js/2.326a0495.chunk.js",
-    "static/js/2.326a0495.chunk.js.map": "/react-komponenter-bqardi/static/js/2.326a0495.chunk.js.map",
-    "static/js/3.ee2bd8da.chunk.js": "/react-komponenter-bqardi/static/js/3.ee2bd8da.chunk.js",
-    "static/js/3.ee2bd8da.chunk.js.map": "/react-komponenter-bqardi/static/js/3.ee2bd8da.chunk.js.map",
-    "index.html": "/react-komponenter-bqardi/index.html",
-    "static/css/main.b68505a9.chunk.css.map": "/react-komponenter-bqardi/static/css/main.b68505a9.chunk.css.map",
-    "static/js/2.326a0495.chunk.js.LICENSE.txt": "/react-komponenter-bqardi/static/js/2.326a0495.chunk.js.LICENSE.txt",
-    "static/media/NewYorkTimes.css": "/react-komponenter-bqardi/static/media/nyt.cb42a686.jpg"
+    "main.css": "./static/css/main.031927d3.chunk.css",
+    "main.js": "./static/js/main.03a5e94d.chunk.js",
+    "main.js.map": "./static/js/main.03a5e94d.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.848e862e.js",
+    "runtime-main.js.map": "./static/js/runtime-main.848e862e.js.map",
+    "static/js/2.91708d93.chunk.js": "./static/js/2.91708d93.chunk.js",
+    "static/js/2.91708d93.chunk.js.map": "./static/js/2.91708d93.chunk.js.map",
+    "static/js/3.ec23b258.chunk.js": "./static/js/3.ec23b258.chunk.js",
+    "static/js/3.ec23b258.chunk.js.map": "./static/js/3.ec23b258.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.031927d3.chunk.css.map": "./static/css/main.031927d3.chunk.css.map",
+    "static/js/2.91708d93.chunk.js.LICENSE.txt": "./static/js/2.91708d93.chunk.js.LICENSE.txt",
+    "static/media/NewYorkTimes.css": "./static/media/nyt.cb42a686.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f7772ce.js",
-    "static/js/2.326a0495.chunk.js",
-    "static/css/main.b68505a9.chunk.css",
-    "static/js/main.6f72bfb7.chunk.js"
+    "static/js/runtime-main.848e862e.js",
+    "static/js/2.91708d93.chunk.js",
+    "static/css/main.031927d3.chunk.css",
+    "static/js/main.03a5e94d.chunk.js"
   ]
 }
