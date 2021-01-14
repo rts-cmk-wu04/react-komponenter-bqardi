@@ -1,0 +1,19 @@
+.Like{
+    position: absolute;
+    top: 0.8em;
+    right: 1.1em;
+    font-size: 2em;
+    color: white;
+    text-decoration: none;
+    opacity: .5;
+    transition: .3s;
+}
+.Like:hover{
+    transform: scale(1.8);
+}
+.Like.js-liked{
+    text-shadow: 0 0 1px #440303;
+    opacity: 1;
+    color: #f05656;
+    transform: scale(1.8);
+}
