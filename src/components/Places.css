@@ -44,19 +44,6 @@
     border-radius: 50%;
     margin-right: 1em;
 }
-.Places__like{
-    position: absolute;
-    top: 0.8em;
-    right: 1.1em;
-    font-size: 2em;
-    color: white;
-    text-decoration: none;
-    opacity: .5;
-    transition: transform .3s;
-}
-.Places__like:hover{
-    transform: scale(1.8);
-}
 .Places__description{
     position: absolute;
     bottom: 1.5em;

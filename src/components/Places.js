@@ -1,9 +1,10 @@
-import { Link } from "@reach/router";
 import { useEffect, useState } from "react";
+import Like from "./Like";
 import "./Places.css";
 
 function Places({item}){
     var [index, setIndex] = useState(0);
+    
     var content = item?.content;
 
     useEffect(() => {
@@ -21,7 +22,11 @@ function Places({item}){
             })}
             <div className="Places__content">
                 <h2 className="Places__category Category">{item?.title}</h2>
-                <Link to="/react-komponenter-bqardi/" className="Places__like">&hearts;</Link>
+                <Like index={index} callback={(liked) =>{
+                    var isLiked = liked.isLiked;
+                    var likeText = isLiked ? "liked..." : "unliked :-(";
+                    console.log(likeText, liked);
+                }}/>
                 {item?.content.map((content, i) => {
                     var activeClass = i === index ? " js-active" : "";
                     return (
