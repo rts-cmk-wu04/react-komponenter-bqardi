@@ -26,8 +26,13 @@ function Like({index, callback}){
         callback(liked[index]);
     }
 
-    var title = liked[index].isLiked ? "You've already liked this picture." : "Like this picture? Click to like.";
-    var className = `Like${liked[index].likeClass}`;
+    var title = "";
+    var className = "";
+    
+    if (liked.length > index) {
+        title = liked[index].isLiked ? "You've already liked this picture." : "Like this picture? Click to like.";
+        className = `Like${liked[index].likeClass}`;
+    }
 
     return <Link onClick={clickHandler} to="/react-komponenter-bqardi/" title={title} className={className}>&hearts;</Link>;
 }
